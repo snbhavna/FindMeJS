@@ -1,0 +1,50 @@
+body {
+    background-color: rgba(19, 101, 16, 0.65);
+    margin: 10px;
+}
+.header
+{
+    text-align: center;
+    font-size: 38px;
+    font-family: "Arial Black";
+}
+.title-row
+{
+    margin-top: 42px;
+    margin-bottom: 21px;
+    text-align: center;
+    font-size: 28px;
+    font-family: Chalkboard;
+}
+.instructions-title
+{
+    display: inline;
+    font-size: 18px;
+    font-family: Chalkboard;
+}
+.instructions-row
+{
+    margin: 0 auto;
+    width: 400px;
+}
+
+.door-frame
+{
+    cursor: pointer;
+    padding: 10px;
+}
+.start-row
+{
+    margin: auto;
+    width: 120px;
+    height: 120px;
+    font-family: \'91Work Sans\'92;
+    background-color: #eb6536;
+    padding-top: 18px;
+    font-size: 25px;
+    text-align: center;
+    color: #010165;
+    margin-bottom: 21px;
+    cursor: pointer;
+}
+
